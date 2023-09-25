@@ -25,7 +25,7 @@ remove-relection-tool 対象ディレクトリ 基準ディレクトリ
 go install で導入できます。
 
 ```
-go install github.com/okashi-uji/photo-organization-tool@latest
+go install github.com/okashi-uji/remove-reflection-tool@latest
 ```
 
 ## 作者
