@@ -9,8 +9,8 @@ import (
 	"regexp"
 )
 
-const HELP = `Usage: photo-organization-tool target standard
-使い方: photo-organization-tool 対象ディレクトリ 基準ディレクトリ`
+const HELP = `Usage: remove-reflection-tool target standard
+使い方: remove-reflection-tool 対象ディレクトリ 基準ディレクトリ`
 
 type MvPath struct {
 	old_path string
