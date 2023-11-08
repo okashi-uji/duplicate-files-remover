@@ -24,7 +24,7 @@ remove-reflection-tool 対象ディレクトリ 基準ディレクトリ
 go install で導入できます。
 
 ```
-go install github.com/okashi-uji/remove-reflection-tool@latest
+go install github.com/oka4shi/remove-reflection-tool@latest
 ```
 
 ## 作者
