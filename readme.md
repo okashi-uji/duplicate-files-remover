@@ -29,4 +29,4 @@ go install github.com/oka4shi/remove-reflection-tool@latest
 
 ## 作者
 
-- おかし(@okashi-uji)
+- おかし(@oka4shi)
